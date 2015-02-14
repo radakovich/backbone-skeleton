@@ -1,0 +1,19 @@
+{
+  "name": "backbone-skeleton",
+  "version": "1.0.0",
+  "description": "Bare Backbone skeleton application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radakovich/backbone-skeleton.git"
+  },
+  "author": "Jake Radakovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radakovich/backbone-skeleton/issues"
+  },
+  "homepage": "https://github.com/radakovich/backbone-skeleton"
+}
